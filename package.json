@@ -1,0 +1,23 @@
+{
+  "name": "makeapicall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyBautista-93/Express-API-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddyBautista-93/Express-API-Exercise/issues"
+  },
+  "homepage": "https://github.com/EddyBautista-93/Express-API-Exercise#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
